@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "248986837454",
+    "project_id": "quillspace-e9673",
+    "storage_bucket": "quillspace-e9673.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:248986837454:android:b396d145608f1eaf90cb9f",
+        "android_client_info": {
+          "package_name": "com.testeapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "248986837454-usdkccb7f2jp57t65v43ieb58tltk4m6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxKlJtwba_IfcwfQCyNTnACaVotUPEASw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "248986837454-usdkccb7f2jp57t65v43ieb58tltk4m6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

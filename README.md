@@ -10,8 +10,8 @@ Projeto desenvolvido com React Native CLI
 * React Native
 * Javascript
 * React Navigation: Rotas e navegação de páginas
-* Async Storage: Sistema de armazenamento de dados
-* Styled Components
+* Async Storage: Sistema de armazenamento de dados assíncrono
+* Styled Components: Estilização de componentes
 * Firebase: Autenticação de usuário e banco de dados
 * React Native Animatable: Animações fluidas e interativas
 

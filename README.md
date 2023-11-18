@@ -28,6 +28,7 @@ Projeto desenvolvido com React Native CLI
 |     SignIn      | <img src="https://github.com/eujennifferlino/QuillSpaceApp/assets/111028742/cecf5056-cf04-4920-8186-17bc24a81959.png" alt="tela SignIn" width="240" height="500">|
 |     SignUp      | <img src="https://github.com/eujennifferlino/QuillSpaceApp/assets/111028742/1d077173-8e71-42a2-9c85-98b96d002708.png" alt="tela SignUp Alert Box" width="240" height="500">|
 |    User Posts   | <img src="https://github.com/eujennifferlino/QuillSpaceApp/assets/111028742/619b8ac0-6d90-4c9f-8518-7a1aa2f1ac23.png" alt="tela SignUp" width="240" height="500">|
+|      Modal      | <img src="https://github.com/eujennifferlino/QuillSpaceApp/assets/111028742/e2597204-7c80-4e1f-89bd-02a5b85a591a.png" alt="tela SignUp" width="240" height="500">|
 
 
 ---
